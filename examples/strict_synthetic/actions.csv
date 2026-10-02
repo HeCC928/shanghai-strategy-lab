@@ -1,0 +1,2 @@
+﻿event_id,symbol,record_date,ex_date,pay_date,cash_per_share,share_multiplier,share_trade_date,source
+synthetic_dividend,600000,2023-02-10,2023-02-13,2023-02-15,1.0,2.0,2023-02-14,synthetic hand ledger

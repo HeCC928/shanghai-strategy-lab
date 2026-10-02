@@ -1,0 +1,526 @@
+{
+  "source": "baostock",
+  "requested": 100,
+  "succeeded": 100,
+  "failures": [],
+  "fetched_at": "2026-09-13T15:06:05.101231+00:00",
+  "requests": [
+    {
+      "symbol": "600000",
+      "cache": "baostock_600000_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600004",
+      "cache": "baostock_600004_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600006",
+      "cache": "baostock_600006_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600007",
+      "cache": "baostock_600007_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600008",
+      "cache": "baostock_600008_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600009",
+      "cache": "baostock_600009_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600010",
+      "cache": "baostock_600010_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600011",
+      "cache": "baostock_600011_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600012",
+      "cache": "baostock_600012_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600015",
+      "cache": "baostock_600015_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600016",
+      "cache": "baostock_600016_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600017",
+      "cache": "baostock_600017_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600018",
+      "cache": "baostock_600018_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600019",
+      "cache": "baostock_600019_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600020",
+      "cache": "baostock_600020_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600021",
+      "cache": "baostock_600021_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600022",
+      "cache": "baostock_600022_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600023",
+      "cache": "baostock_600023_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600026",
+      "cache": "baostock_600026_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600027",
+      "cache": "baostock_600027_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600028",
+      "cache": "baostock_600028_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600029",
+      "cache": "baostock_600029_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600030",
+      "cache": "baostock_600030_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600031",
+      "cache": "baostock_600031_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600033",
+      "cache": "baostock_600033_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600035",
+      "cache": "baostock_600035_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600036",
+      "cache": "baostock_600036_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600037",
+      "cache": "baostock_600037_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600038",
+      "cache": "baostock_600038_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600039",
+      "cache": "baostock_600039_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600048",
+      "cache": "baostock_600048_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600050",
+      "cache": "baostock_600050_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600051",
+      "cache": "baostock_600051_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600052",
+      "cache": "baostock_600052_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600053",
+      "cache": "baostock_600053_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600054",
+      "cache": "baostock_600054_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600055",
+      "cache": "baostock_600055_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600056",
+      "cache": "baostock_600056_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600057",
+      "cache": "baostock_600057_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600058",
+      "cache": "baostock_600058_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600059",
+      "cache": "baostock_600059_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600060",
+      "cache": "baostock_600060_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600061",
+      "cache": "baostock_600061_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600062",
+      "cache": "baostock_600062_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600063",
+      "cache": "baostock_600063_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600064",
+      "cache": "baostock_600064_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600066",
+      "cache": "baostock_600066_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600067",
+      "cache": "baostock_600067_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600071",
+      "cache": "baostock_600071_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600072",
+      "cache": "baostock_600072_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600073",
+      "cache": "baostock_600073_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600075",
+      "cache": "baostock_600075_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600076",
+      "cache": "baostock_600076_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600078",
+      "cache": "baostock_600078_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600079",
+      "cache": "baostock_600079_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600080",
+      "cache": "baostock_600080_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600081",
+      "cache": "baostock_600081_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600082",
+      "cache": "baostock_600082_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600084",
+      "cache": "baostock_600084_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600085",
+      "cache": "baostock_600085_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600088",
+      "cache": "baostock_600088_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600089",
+      "cache": "baostock_600089_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600094",
+      "cache": "baostock_600094_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600095",
+      "cache": "baostock_600095_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600096",
+      "cache": "baostock_600096_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600097",
+      "cache": "baostock_600097_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600098",
+      "cache": "baostock_600098_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600099",
+      "cache": "baostock_600099_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600100",
+      "cache": "baostock_600100_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600101",
+      "cache": "baostock_600101_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600103",
+      "cache": "baostock_600103_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600104",
+      "cache": "baostock_600104_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600105",
+      "cache": "baostock_600105_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600106",
+      "cache": "baostock_600106_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600107",
+      "cache": "baostock_600107_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600108",
+      "cache": "baostock_600108_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600109",
+      "cache": "baostock_600109_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600110",
+      "cache": "baostock_600110_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600111",
+      "cache": "baostock_600111_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600113",
+      "cache": "baostock_600113_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600114",
+      "cache": "baostock_600114_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600115",
+      "cache": "baostock_600115_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600116",
+      "cache": "baostock_600116_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600117",
+      "cache": "baostock_600117_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600118",
+      "cache": "baostock_600118_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600119",
+      "cache": "baostock_600119_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600120",
+      "cache": "baostock_600120_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600121",
+      "cache": "baostock_600121_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600123",
+      "cache": "baostock_600123_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600125",
+      "cache": "baostock_600125_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600126",
+      "cache": "baostock_600126_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600127",
+      "cache": "baostock_600127_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600128",
+      "cache": "baostock_600128_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600129",
+      "cache": "baostock_600129_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600130",
+      "cache": "baostock_600130_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600131",
+      "cache": "baostock_600131_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600132",
+      "cache": "baostock_600132_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600133",
+      "cache": "baostock_600133_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600135",
+      "cache": "baostock_600135_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    },
+    {
+      "symbol": "600136",
+      "cache": "baostock_600136_2017-01-01_2025-03-07.parquet",
+      "rows": 1984
+    }
+  ],
+  "label": "真实行情 · baostock · 固定观察池100只",
+  "schema_version": 1,
+  "package_versions": {
+    "akshare": "1.18.62",
+    "baostock": "0.9.3",
+    "pandas": "2.2.3"
+  },
+  "adjustment": "qfq",
+  "start": "2017-01-01",
+  "end": "2025-03-07",
+  "limitations": [
+    "当前存续主板股票按代码选取的固定观察池，存在幸存者和事后选择偏差",
+    "历史涨跌停限制价与公司行动到账事件未补齐",
+    "仅供本地研究，原始行情不默认授权再分发"
+  ],
+  "market_reference": "BaoStock 上证综指（价格指数，不含分红，不是可直接投资的同口径基准）",
+  "snapshot_id": "b82a8da9cc94cdb2f5966d54cb39484a008cb36a1594e4776a86f49e4f598a1f"
+}

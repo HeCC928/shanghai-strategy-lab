@@ -1,0 +1,16 @@
+{
+  "source": "synthetic",
+  "label": "合成严格股数CSV样本（非真实行情）",
+  "limitations": [
+    "所有价格、日历、限制价及事件均为教学合成，不能用于评价策略收益"
+  ],
+  "corporate_action_coverage": {
+    "600000": {
+      "from": "2023-01-02",
+      "to": "2023-02-24",
+      "source": "synthetic hand ledger",
+      "reviewed_at": "2026-09-13",
+      "complete": true
+    }
+  }
+}

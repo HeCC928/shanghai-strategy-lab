@@ -1,0 +1,21 @@
+version: china-a-share-2018-2026-v2
+scope: 2018-01-01 through 2026-06-30
+verified_at: '2026-09-17'
+coverage_start: '2018-01-01'
+coverage_end: '2026-06-30'
+commission_assumption: User configurable; includes brokerage/exchange charges other than separately listed stamp and transfer fees.
+rates:
+  - effective_from: '2018-01-01'
+    sell_stamp: 0.001
+    transfer_both_sides: 0.00002
+  - effective_from: '2022-04-29'
+    sell_stamp: 0.001
+    transfer_both_sides: 0.00001
+  - effective_from: '2023-08-28'
+    sell_stamp: 0.0005
+    transfer_both_sides: 0.00001
+sources:
+  stamp: https://www.sse.com.cn/aboutus/mediacenter/hotandd/c/c_20230827_5725662.shtml
+  transfer_broker_notice: https://www.xcsc.com/main/a/20220429/1022871784.shtml
+  current_sse_investor_fees: https://one.sse.com.cn/onething/gptz/
+  sse_2026_fee_schedule: https://www.sse.com.cn/services/tradingservice/charge/ssecharge/c/c_20251231_10803655.shtml

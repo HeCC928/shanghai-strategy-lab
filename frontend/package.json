@@ -1,0 +1,9 @@
+{
+  "name": "shanghai-strategy-lab-ui",
+  "version": "0.2.0",
+  "private": true,
+  "type": "module",
+  "scripts": { "dev": "vite --host 127.0.0.1", "build": "tsc --noEmit && vite build" },
+  "dependencies": { "react": "19.1.0", "react-dom": "19.1.0", "lucide-react": "0.468.0", "plotly.js-dist-min": "2.35.2" },
+  "devDependencies": { "@types/react": "19.1.0", "@types/react-dom": "19.1.1", "@types/plotly.js": "2.35.0", "typescript": "5.8.3", "vite": "6.3.5" }
+}

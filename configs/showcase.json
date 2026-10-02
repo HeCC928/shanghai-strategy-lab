@@ -1,0 +1,40 @@
+{
+  "accepted_on": "2026-09-18",
+  "featured_run_id": "20260917T142156_a1c71212",
+  "rolling_run_id": "20260917T233947_eee9c020",
+  "snapshot_id": "ca9ede9480e8711d",
+  "search_id": "20260917T142026_575b9d71",
+  "sharpe_description": "approximately 1.5",
+  "max_drawdown_limit": 0.25,
+  "selection_note": "Target-period optimized result. Accepted at Sharpe 1.48 and maximum drawdown 19.3%; no further optimization to cross 1.5. Not an independent holdout test.",
+  "comparisons": {
+    "default_threshold": {
+      "run_id": "20260917T234332_a7d88e8b",
+      "label": "Original 20-session threshold",
+      "changes": {
+        "threshold_ma": 20
+      }
+    },
+    "original_momentum": {
+      "run_id": "20260917T234338_f15120ed",
+      "label": "Original momentum rule",
+      "changes": {
+        "strategy": "momentum"
+      }
+    },
+    "trend_risk": {
+      "run_id": "20260917T234344_32f3b9eb",
+      "label": "Threshold + market trend filter",
+      "changes": {
+        "market_filter": true
+      }
+    },
+    "volatility_risk": {
+      "run_id": "20260917T234350_a4cd8463",
+      "label": "Threshold + volatility allocation",
+      "changes": {
+        "volatility_control": true
+      }
+    }
+  }
+}
